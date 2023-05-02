@@ -1,0 +1,267 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "1",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title":"Sobina",
+      "experience":"4 years",
+      "Numbers_of_recipes":"26",
+
+      "author": {
+        "name": "Panta Ilish",
+        "published_date": "2022-08-24 17:27:34",
+      
+        "likes":"44"
+      },
+      "thumbnail_url": "https://www.chefspencil.com/wp-content/uploads/Falooda-1-960x960.jpg.webp",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_pjMsX-nsV2BovsstTtWM0cBmqW4eDY_Odg&usqp=CAU",
+      "details": "Panta Ilish is a traditional food that almost every Bangladeshi eats at the Pohela Boishakh Festival (the first day of Bangla year). It’s the most popular food in Bangladesh. We love this dish as it is a great symbol and celebration of our culture and tradition.It’s a platter of leftover rice soaked in water and served with fried hilsa, achar, and dal. People eat Panta Ilish in the morning of Pohela Boishakh and then take part in cultural programs. The flavorful, crispy, and delicious hilsa fish served with water-soaked cold rice and spicy bharta presents a combination of salty and chili tastes.",
+            "Biodata":"A personal chef’s job is not just to cook food for their clients. They have to start by learning about their clients’ eating habits, preferences, and any dietary restrictions/allergies. A personal chef can offer clients ideas by showing them their personal menu cards. Once the meals are decided, clients can decide on the days and timings they would like to have their meals prepared. Depending on a client’s situation, a personal chef will also be able to help them to obtain the right ingredients. In ancient times, royals and aristocrats hired a team of chefs."
+
+
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "3",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Jimmy Dane",
+      "experience":"5 years",
+      "Numbers_of_recipes":"27",
+
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+      
+        "likes":"33"
+      },
+      "thumbnail_url": "https://www.chefspencil.com/wp-content/uploads/Falooda-1-960x960.jpg.webp",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVnsb0BhAM2G5fl4VT6ghNVwoxv6qL3B3QfA&usqp=CAU",
+      "details": "Kacchi Biryani is one of Bangladeshi people’s most loved foods. It is so loved, it is served at most festivals and special occasions, such as weddings, picnics, etc. I love this dish.The most popular biryani in Bangladesh is Dhaka Kacchi Biryani. You will always find the Dhaka street biryani stall crowded because of the huge demand for this food. The main ingredients are rice and marinated meat cooked in lots of spices, giving it its special taste. The spices are nutmeg, mace, pepper, cloves, cardamom, cinnamon, bay leaves, coriander, mint, ginger, onion, tomatoes, green chilies, and garlic. It is sometimes served with a boiled egg and salad.",
+            "Biodata":"A personal chef’s job is not just to cook food for their clients. They have to start by learning about their clients’ eating habits, preferences, and any dietary restrictions/allergies. A personal chef can offer clients ideas by showing them their personal menu cards. Once the meals are decided, clients can decide on the days and timings they would like to have their meals prepared. Depending on a client’s situation, a personal chef will also be able to help them to obtain the right ingredients. In ancient times, royals and aristocrats hired a team of chefs."
+
+
+    },
+
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71011",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "1",
+      "rating": { "number": 4.8, "badge": "Excellent" },
+      "total_view": 400,
+      "title": "Jennifer Wood",
+      "experience":"2 years",
+      "Numbers_of_recipes":"13",
+
+      "author": {
+        "name": "Jennifer Wood",
+        "published_date": "2022-08-30 16:38:45",
+      
+        "likes":"22"
+      },
+      "thumbnail_url": "https://www.chefspencil.com/wp-content/uploads/Falooda-1-960x960.jpg.webp",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjtbaDZpVFDhl8lKswNamUSyaY9BD2rUeo6g&usqp=CAU",
+      "details": "Polao is a rice dish which involves cooking a stock, and adding spices. Other varieties of this delicious, mouth-watering food are Morog Polao or Chicken Polao, which is Polao served with chicken.Polao and biryani are cooked with the same rice but they taste different because of the different variety of spices used. But when you are eating Morog Polao, you know you are not eating something ordinary. It has the taste of royalty, and is often eaten at celebrations and other special occasions.",
+            "Biodata":"A personal chef’s job is not just to cook food for their clients. They have to start by learning about their clients’ eating habits, preferences, and any dietary restrictions/allergies. A personal chef can offer clients ideas by showing them their personal menu cards. Once the meals are decided, clients can decide on the days and timings they would like to have their meals prepared. Depending on a client’s situation, a personal chef will also be able to help them to obtain the right ingredients. In ancient times, royals and aristocrats hired a team of chefs."
+
+
+    },
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71012",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "2",
+      "rating": { "number": 4.3, "badge": "Excellent" },
+      "total_view": 400,
+      "title": "Grinifer Wood",
+      "experience":"6 years",
+      "Numbers_of_recipes":"40",
+
+      "author": {
+        "name": "Jennifer Wood",
+        "published_date": "2022-08-30 16:38:45",
+
+        "likes":"27"
+      },
+      "thumbnail_url": "https://www.chefspencil.com/wp-content/uploads/Falooda-1-960x960.jpg.webp",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1K_zomV2S_UZhHdbKa5kEy1GD_EExz7ca0w&usqp=CAU",
+      "details": "Almost every restaurant in Bangladesh serves this dish, and more than 50,000 grilled chickens are sold every day throughout the country. There are different ways of grilling chicken and there are many variations of spices that are used. Many restaurants roast chickens in a glass oven placed outside to entice people in to eat. It’s a very successful strategy.Now, it is mostly eaten with Naan Roti. Naan Roti is an oven-baked leavened flatbread—the perfect food with chicken. The bread is a little sweet while the chicken is spicy. This combination creates a fabulous wild taste in your mouth.",
+            "Biodata":"A personal chef’s job is not just to cook food for their clients. They have to start by learning about their clients’ eating habits, preferences, and any dietary restrictions/allergies. A personal chef can offer clients ideas by showing them their personal menu cards. Once the meals are decided, clients can decide on the days and timings they would like to have their meals prepared. Depending on a client’s situation, a personal chef will also be able to help them to obtain the right ingredients. In ancient times, royals and aristocrats hired a team of chefs."
+
+
+    },
+
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "3",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 980,
+      "title": "Bareki",
+      "experience":"3 years",
+      "Numbers_of_recipes":"35",
+
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-24 23:15:00",
+    
+        "likes":"55"
+      },
+      "thumbnail_url": "https://www.chefspencil.com/wp-content/uploads/Falooda-1-960x960.jpg.webp",
+      "image_url": "data:image/jpeg;base64,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",
+      "details": "Haleem is an Arabic dish. It is a popular stew made with meat—usually beef or mutton—lentils, barley, and spices. It is sold on street stalls and in bazaars (markets) as a snack, and making haleem involves a lengthy and complex process. It can be served with mint, lemon juice, coriander leaves, fried onions, ginger root, and green chilies.Haleem is a high-calorie dish, providing protein from the meat and fiber and carbohydrates from the combinations of grains and pulses. This is quite possibly why the dish is so popular for breaking fast during Ramadan.",
+            "Biodata":"A personal chef’s job is not just to cook food for their clients. They have to start by learning about their clients’ eating habits, preferences, and any dietary restrictions/allergies. A personal chef can offer clients ideas by showing them their personal menu cards. Once the meals are decided, clients can decide on the days and timings they would like to have their meals prepared. Depending on a client’s situation, a personal chef will also be able to help them to obtain the right ingredients. In ancient times, royals and aristocrats hired a team of chefs."
+
+
+
+    },
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f0",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "1",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 980,
+      "title": " Masud",
+      "experience":"4 years",
+      "Numbers_of_recipes":"34",
+              "img": "https://www.chefspencil.com/wp-content/uploads/Panta-Ilish-960x720.jpg.webp",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-24 23:15:00",
+   
+        "likes":"45"
+      },
+      "thumbnail_url": "https://www.chefspencil.com/wp-content/uploads/Ras-Malai-1-960x960.jpg.webp",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZTGe_uFaDSapy_zrnP1O_f0No8uqHCjEA-g&usqp=CAU",
+      "details": "Seekh Kebab is a Turkish dish that has become very popular in Bangladesh. The beef is prepared with various spices creating unique flavors. It is a delicious appetizer, soft and succulent and seasoned with ginger, garlic, green chili pepper, powdered chili, and other spices.The preparation of Seekh Kebab really brings out the flavor of the meat. Some people eat it with Roti, others prefer to eat it on its own.",
+            "Biodata":"A personal chef’s job is not just to cook food for their clients. They have to start by learning about their clients’ eating habits, preferences, and any dietary restrictions/allergies. A personal chef can offer clients ideas by showing them their personal menu cards. Once the meals are decided, clients can decide on the days and timings they would like to have their meals prepared. Depending on a client’s situation, a personal chef will also be able to help them to obtain the right ingredients. In ancient times, royals and aristocrats hired a team of chefs."
+
+
+
+    },
+
+    {
+      "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "2",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": null,
+      "title": "Kasem",
+      "experience":"2 years",
+      "Numbers_of_recipes":"23",
+
+      "author": {
+        "name": null,
+        "likes":"56",
+        "published_date": "2022-08-30 15:00:04"
+
+      },
+      "thumbnail_url": "https://www.chefspencil.com/wp-content/uploads/Ras-Malai-1-960x960.jpg.webp",
+      "image_url": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y2hlZnxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "details": "Probably the most loved snack and street food in the whole of Bangladesh is Puchka. It originated in India but has become popular in Bangladesh, Pakistan, and Nepal. Puchka is round or ball-shaped deep-fried, crisp flatbread which is served with mashed potato, dal, chaat masala, onion, and coriander.As soon as you smell a puchka, you know you are going to have a great taste experience. You get the perfect mix of cold, spicy, tart, sweet, and crunch. So popular is it, people will often hang out with friends at roadside puchka stalls.",
+            "Biodata":"A personal chef’s job is not just to cook food for their clients. They have to start by learning about their clients’ eating habits, preferences, and any dietary restrictions/allergies. A personal chef can offer clients ideas by showing them their personal menu cards. Once the meals are decided, clients can decide on the days and timings they would like to have their meals prepared. Depending on a client’s situation, a personal chef will also be able to help them to obtain the right ingredients. In ancient times, royals and aristocrats hired a team of chefs."
+
+
+
+    },
+
+    {
+      "_id": "a713ee936ff5574273f0f769f5c5b20e",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "3",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 111,
+      "title": "Sokina",
+      "experience":"5",
+      "Numbers_of_recipes":"10",
+
+      "author": {
+        "name": "system",
+        "published_date": null,
+        "likes":"66"
+
+      },
+      "thumbnail_url": "https://www.chefspencil.com/wp-content/uploads/Seekh-Kebab-960x960.jpg.webp",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTovXlPUkZJXBW9lwwU-MEzSRA3ENmgrGEsA&usqp=CAU",
+      "details":"Rasgulla or Roshogulla (syrup filled roll) is one of the most popular sweets in Bangladesh. It is traditionally eaten after lunch as the people of Bangladesh love to eat sweet dishes after a heavy meal. Sweet and spongy rasgulla is also served to guests and at festivals and special occasions.Its origins are contested. Some believe Rasgulla originated in East India while others claim is was Bangladesh. It is made from ball-shaped dumplings of chhena and semolina, cooked in a light syrup. The syrup soaks into the dumplings, creating soft, fluffy, syrupy white-colored sweets that melt in the mouth. They can be eaten hot, cold or at room temperature: and each one tastes different.",
+            "Biodata":"A personal chef’s job is not just to cook food for their clients. They have to start by learning about their clients’ eating habits, preferences, and any dietary restrictions/allergies. A personal chef can offer clients ideas by showing them their personal menu cards. Once the meals are decided, clients can decide on the days and timings they would like to have their meals prepared. Depending on a client’s situation, a personal chef will also be able to help them to obtain the right ingredients. In ancient times, royals and aristocrats hired a team of chefs."
+
+    },
+
+    {
+      "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+      "others_info": {
+        "is_todays_pick": true,
+        "is_trending": false
+      },
+      "category_id": "4",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 733,
+      "title": "Theo Minh",
+      "experience":"4 years",
+      "Numbers_of_recipes":"20",
+
+      "author": {
+        "name": "Theo Minh Châu",
+        "likes":"23",
+        "published_date": "2022-08-25 06:03:00"
+      },
+      "thumbnail_url": "https://www.chefspencil.com/wp-content/uploads/Screenshot-2021-05-24-at-19.15.48.jpg.webp",
+      "image_url": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg",
+      "details":"Ras Malai is a sweet dessert. It originated throughout the region in India, Bangladesh, Pakistan, and Afghanistan. Ras malai consists of flattened balls of chhana soaked in malai (clotted cream) and flavored with cardamom. A little vinegar or lime juice is added to boiled milk to separate it. The whey is then discarded and the milk solids are drained, cooled and kneaded into a dough. The dough is divided into small balls, which are cooked in hot water with a little rose water in it. The balls are then cooked in milk with saffron, pistachios, and kheer as stuffing.",
+            "Biodata":"A personal chef’s job is not just to cook food for their clients. They have to start by learning about their clients’ eating habits, preferences, and any dietary restrictions/allergies. A personal chef can offer clients ideas by showing them their personal menu cards. Once the meals are decided, clients can decide on the days and timings they would like to have their meals prepared. Depending on a client’s situation, a personal chef will also be able to help them to obtain the right ingredients. In ancient times, royals and aristocrats hired a team of chefs."
+
+    },
+    {
+      "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "4",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 733,
+      "title": "Minh Châu",
+      "experience":"6 years",
+      "Numbers_of_recipes":"30",
+      "author": {
+        "name": "Theo Minh Châu",
+        "likes":"43",
+        "published_date": "2022-08-25 06:03:00",
+        "imgs":"https://www.chefspencil.com/wp-content/uploads/Panta-Ilish-960x720.jpg.webp"
+      },
+      "thumbnail_url": "https://www.chefspencil.com/wp-content/uploads/Panta-Ilish-960x720.jpg.webp",
+      "image_url": "https://st.depositphotos.com/1518767/4293/i/950/depositphotos_42930411-stock-photo-concentrated-male-chef-garnishing-food.jpg",
+      "details": "Borhani is a traditional yoghurt-like drink from Bangladesh that is a thick, frothy, herby and spicy savory drink. It is a type of lassi but containing sour doi, coriander, cumin, mustard, green chili, and mint.In Bangladesh, people love borhani so much it is served at almost every special events, such as weddings, and at family gatherings to break fast during Ramadan. Borhani aids digestion, which is probably why it is eaten after heavy celebratory meals.",
+      "Biodata":"A personal chef’s job is not just to cook food for their clients. They have to start by learning about their clients’ eating habits, preferences, and any dietary restrictions/allergies. A personal chef can offer clients ideas by showing them their personal menu cards. Once the meals are decided, clients can decide on the days and timings they would like to have their meals prepared. Depending on a client’s situation, a personal chef will also be able to help them to obtain the right ingredients. In ancient times, royals and aristocrats hired a team of chefs."
+
+    }
+
+  
+  ]
