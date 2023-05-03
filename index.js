@@ -7,7 +7,7 @@ const chefdata = require('.//Data/chefdata.json')
 app.use(cors())
 
 app.get('/', (req, res) => {
-  res.send('recipe is running')
+  res.send('recipe is running..')
 })
 
 app.get('/countries', (req, res) => {
