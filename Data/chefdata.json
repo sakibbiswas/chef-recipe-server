@@ -174,7 +174,7 @@
         "is_trending": true
       },
       "category_id": "2",
-      "rating": { "number": 4.5, "badge": "Excellent" },
+      "rating": { "number": 4.6, "badge": "Excellent" },
       "total_view": null,
       "title": "Kasem",
       "experience":"2 years",
@@ -203,7 +203,7 @@
         "is_trending": true
       },
       "category_id": "3",
-      "rating": { "number": 4.5, "badge": "Excellent" },
+      "rating": { "number": 4.2, "badge": "Excellent" },
       "total_view": 111,
       "title": "Sokina",
       "experience":"5",
@@ -230,7 +230,7 @@
         "is_trending": false
       },
       "category_id": "4",
-      "rating": { "number": 4.5, "badge": "Excellent" },
+      "rating": { "number": 4.3, "badge": "Excellent" },
       "total_view": 733,
       "title": "Theo Minh",
       "experience":"4 years",
