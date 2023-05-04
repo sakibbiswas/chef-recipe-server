@@ -7,10 +7,11 @@
       },
       "category_id": "1",
       "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
+      "total_view": 487,
       "title":"Sobina",
       "experience":"4 years",
       "Numbers_of_recipes":"26",
+      "some_recipe":"Seekh Kebab ,Kacchi Biryani,Puchka",
 
       "author": {
         "name": "Panta Ilish",
@@ -37,6 +38,7 @@
       "title": "Jimmy Dane",
       "experience":"5 years",
       "Numbers_of_recipes":"27",
+      "some_recipe":"Seekh Kebab ,Kacchi Biryani,Puchka",
 
       "author": {
         "name": "Seekh Kebab",
@@ -64,6 +66,7 @@
       "title": "Jennifer Wood",
       "experience":"2 years",
       "Numbers_of_recipes":"13",
+      "some_recipe":"Seekh Kebab ,Kacchi Biryani,Puchka",
 
       "author": {
         "name": "Puchka",
@@ -90,6 +93,7 @@
       "title": "Grinifer Wood",
       "experience":"6 years",
       "Numbers_of_recipes":"40",
+      "some_recipe":"Seekh Kebab ,Kacchi Biryani,Puchka,Rasgulla",
 
       "author": {
         "name": "Rasgulla",
@@ -117,6 +121,8 @@
       "title": "Bareki",
       "experience":"3 years",
       "Numbers_of_recipes":"35",
+            "some_recipe":"Seekh Kebab ,Kacchi Biryani,Rasgulla",
+      
 
       "author": {
         "name": "Rasgulla",
@@ -144,6 +150,7 @@
       "title": " Masud",
       "experience":"4 years",
       "Numbers_of_recipes":"34",
+            "some_recipe":"Seekh Kebab ,Kacchi Biryani,Puchka,Rasgulla",
               "img": "https://www.chefspencil.com/wp-content/uploads/Panta-Ilish-960x720.jpg.webp",
       "author": {
         "name": "Puchka",
@@ -172,6 +179,7 @@
       "title": "Kasem",
       "experience":"2 years",
       "Numbers_of_recipes":"23",
+            "some_recipe":"Seekh Kebab ,Kacchi Biryani,Puchka,Rasgulla",
 
       "author": {
         "name": "Rasgulla",
@@ -200,6 +208,7 @@
       "title": "Sokina",
       "experience":"5",
       "Numbers_of_recipes":"10",
+            "some_recipe":"Seekh Kebab ,Kacchi Biryani,Puchka,Rasgulla",
 
       "author": {
         "name": "Seekh Kebab",
@@ -226,6 +235,7 @@
       "title": "Theo Minh",
       "experience":"4 years",
       "Numbers_of_recipes":"20",
+            "some_recipe":"Seekh Kebab ,Kacchi Biryani,Puchka,Rasgulla",
 
       "author": {
         "name": "Ras Malai",
@@ -250,6 +260,7 @@
       "title": "Minh Châu",
       "experience":"6 years",
       "Numbers_of_recipes":"30",
+            "some_recipe":"Seekh Kebab ,Kacchi Biryani,Puchka,Rasgulla",
       "author": {
         "name": "Puchka",
         "likes":"43",
